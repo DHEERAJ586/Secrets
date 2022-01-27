@@ -28,9 +28,5 @@
   "license": "ISC",
   "engines": {
     "node": "14.17.6"
-  },
-  "scripts": {
-  "build": "bower install && grunt build",
-  "start": "nf start"
-}
+  }
 }
